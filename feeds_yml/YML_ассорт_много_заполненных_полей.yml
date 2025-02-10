@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Комментарий. Не забудь поменять дату на не познее чем 10 дней от сегодня (гггг-мм-дд) -->
-<yml_catalog date="2025-01-29T14:37:38+03:00">
+<yml_catalog date="2025-02-07T14:37:38+03:00">
     <shop>
         <name>Yuri кладовка в ЦАО</name>
         <company>YuriBiz</company>
@@ -17,7 +17,7 @@
 </categories>
 -->
         <offers>
-            <offer id="yml_001">
+            <offer id="yml_003">
                 <name>Автомобильный компрессор Xiaomi однопоршневой, компактный, черный</name>
                 <market_category_id>90463</market_category_id>
 
@@ -78,7 +78,7 @@
             </offer>
 
 <!-- ВТОРОЙ оффер -->
-            <offer id="yml_002">
+            <offer id="yml_004">
               <name>Автомобильный компрессор Xiaomi однопоршневой, компактный, белый</name>
               <market_category_id>90463</market_category_id>
               <vendor>Xiaomi</vendor>
