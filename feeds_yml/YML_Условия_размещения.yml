@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Комментарий. Не забудь поменять дату на не познее чем 10 дней от сегодня (гггг-мм-дд) -->
+<yml_catalog date="2025-02-02T14:37:38+03:00">
+    <shop>
+        <name>Yuri добавление-удаление оферов 2</name>
+        <company>Yuri добавление-удаление оферов</company>
+        <version>1.0</version>
+        <agency>неТехнологичные решения</agency>
+        <email>example-email@gmail.com</email>
+        <offers>
+            <offer id="id31">
+                <url>http://best.seller.ru/product_page.asp?pid=12345</url>
+                <price>11600</price>
+                <oldprice>13000</oldprice>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>
+                <vat>VAT_20</vat>
+                <store>true</store>
+                <count>98</count>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
