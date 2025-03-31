@@ -17,7 +17,7 @@
 </categories>
 -->
         <offers>
-            <offer id="">
+            <offer id="yml_005">
                 <name>Автомобильный компрессор Xiaomi однопоршневой, компактный, черный</name>
                 <market_category_id>90463</market_category_id>
 
@@ -78,7 +78,7 @@
             </offer>
 
 <!-- ВТОРОЙ оффер -->
-            <offer id="yml_004">
+            <offer id="yml_006">
               <name>Автомобильный компрессор Xiaomi однопоршневой, компактный, белый</name>
               <market_category_id>90463</market_category_id>
               <vendor>Xiaomi</vendor>
