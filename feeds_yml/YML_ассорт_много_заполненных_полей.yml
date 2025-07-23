@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Комментарий. Не забудь поменять дату на не познее чем 10 дней от сегодня (гггг-мм-дд) -->
-<yml_catalog date="2025-03-30T14:37:38+03:00">
+<yml_catalog date="2025-07-22T14:37:38+03:00">
     <shop>
         <name>Yuri кладовка в ЦАО</name>
         <company>YuriBiz</company>
@@ -36,6 +36,7 @@
 
                 <picture>https://y.yarn.co/c4bacdcc-92be-484a-b2d0-57c2c02534c6_text.gif</picture>
                 <picture>https://disk.yandex.ru/d/TcoNwY5-DUCMCg</picture>
+                <picture>https://github.com/yuritsvet/ya_work/raw/refs/heads/main/images/IMG_1560.HEIC</picture>
 
                 <video>https://github.com/yuritsvet/ya_work/raw/refs/heads/main/video/qa%20with%20hummer.mp4</video>
 
